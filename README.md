@@ -1,19 +1,31 @@
-# tadpole-thermal-tolerance
+# Tadpole warming tolerance
+[![license](https://img.shields.io/badge/license-MIT%20+%20file%20LICENSE-lightgrey.svg)](https://choosealicense.com/)
+![Open Source
+Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
 This repository contains code and data needed to reproduce the article:
 
-**xxx & Wu N. C.** (2021) Open habitats increase vulnerability of amphibian tadpoles to climate warming. *journal name*,
+**Cheng C. T., Chuang M. F., Haramura, T., Cheng C. B., Kim Y. I., Borzée A., Wu C. S., Chen Y. H., Jang Y., Wu N. C., & Kam, Y. C.** (In review) Open habitats increase vulnerability of amphibian tadpoles to climate warming across latitude. *journal name*,
 
 **Raw data**
-- ucrit_all.csv - Raw Ucrit data used for the analysis.
+- raw_data.csv - Raw data used for the analysis.
 
-**R codes**
-- BP-temp_analysis.R - Data cleaning, analysis and figure production.
+**Analysis workflow**
+- [Supplementary_information.html](https://nicholaswunz.github.io/tadpole-thermal-tolerance/Supplementary_information.html) - Supplementary information which contains the *R* workflow for processing and analysing the raw data, and creating figures.
 
 **Extra files**
-- CONPHYS-2020-161-SI.pdf - Supplementary file includes statistical outcomes and additional figures and descriptions from the main document.
+- accession_number.csv - Accession number of genes of all species (ingroups and outgroups) in the analysis from the National Center for Biotechnology Information ([NCBI](https://www.ncbi.nlm.nih.gov/)).
+- parameters.csv - Parameter values used to estimate pond temperature using *NicheMapR*.
 
 ## Abstract
-Climate change and deforestation have accelerated global warming over the last century, pushing species closer to their physiological limit. Species tolerance to warming depends on the difference between their upper thermal limit and the maximum environmental temperature experienced. Open habitats can reduce warming tolerance for species with range-restricted life stages because sunlit areas have higher maximal temperatures and are less thermally heterogeneous. We examined the upper critical thermal limit (CT<sub>max</sub>), and maximum environmental water temperature (T<sub>max</sub>) of larvae from 29 amphibian species across three countries from different geographical zones to test how latitude and habitat type (open or closed-forest) affected warming tolerance. Accounting for phylogenetic relatedness, we showed Tmax strongly correlated with warming tolerance, while CT<sub>max</sub> did not predict warming tolerance. Therefore, the maximal environmental temperature provides an accurate estimate of an animal’s warming tolerance. Importantly, we show species that breed in open habitats have lower warming tolerance, regardless of latitude, and biophysical models indicate deforestation will exacerbate the effects of climate warming on amphibian warming tolerance. Our data reveal a potentially serious emerging problem: accelerated warming and deforestation means range restricted animal’s will be subjected closer to their physiological limit and hence increased vulnerability to anthropogenic change.
+**Aim**: Global warming and deforestation are pushing species closer to their physiological limit, especially for species with habitat-restricted life stages because sunlit areas have higher maximal temperatures. Here, we examined the upper critical thermal limit (CTmax), and maximum environmental water temperature (Tmax) of larvae from 29 anuran species across three latitudinally independent countries to test how latitude and habitat type (open or closed-forest) affected warming tolerance, an index on the difference between the species upper thermal limit and the maximum environmental temperature experienced.  
+**Location**: Taiwan, Korea, Japan.  
+**Time period**: Present.  
+**Major taxa studied**: Anuran.  
+**Results**: We showed that open habitats lowered warming tolerance, regardless of latitude and phylogenetic clustering, contrasting the established literature that warming tolerance is lower at tropical latitudes, which only applied to species in forest habitats in this study. Importantly, biophysical models suggest that increasing deforestation will exacerbate the effects of climate warming on warming tolerance.  
+**Main conclusions**: Our data reveal a potentially serious ecological problem: accelerated warming and deforestation means that species with range restricted life stages globally will be subjected closer to increased vulnerability to anthropogenic change.  
 
-**Keywords:** amphibian decline, critical thermal maximum, latitudinal variation, macrophysiology, warming tolerance
+**Keywords:** amphibian decline, critical thermal maximum, latitudinal variation, macrophysiology, microhabitat, thermal tolerance, warming tolerance
+
+## License
+This repository is provided by the authors under the MIT License ([MIT](http://opensource.org/licenses/MIT)).
