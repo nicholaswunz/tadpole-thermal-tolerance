@@ -7,6 +7,10 @@ This repository contains code and data needed to reproduce the article:
 
 **Cheng C. T., Chuang M. F., Haramura, T., Cheng C. B., Kim Y. I., Borzée A., Wu C. S., Chen Y. H., Jang Y., Wu N. C., & Kam, Y. C.** (In review) Open habitats increase vulnerability of amphibian tadpoles to climate warming across latitude. *journal name*,
 
+**When using the data or code from this project, please cite it as:**
+
+Cheng C. T., Chuang M. F., Haramura, T., Cheng C. B., Kim Y. I., Borzée A., Wu C. S., Chen Y. H., Jang Y., Wu N. C., & Kam, Y. C.** (2022) nicholaswunz/tadpole-thermal-tolerance: Accepted version of paper data and code of manuscript: Open habitats increase vulnerability of amphibian tadpoles to climate warming across latitude (Journal). *Zenodo*. DOI: [![DOI](https://zenodo.org/badge/201723328.svg)](https://zenodo.org/badge/latestdoi/201723328)
+
 **Raw data**
 - raw_data.csv - Raw data used for the analysis.
 
