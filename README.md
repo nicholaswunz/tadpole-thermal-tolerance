@@ -13,6 +13,7 @@ Cheng C. T., Chuang M. F., Haramura, T., Cheng C. B., Kim Y. I., Borzée A., Wu 
 
 **Raw data**
 - raw_data.csv - Raw data used for the analysis.
+- tree2021_12.nwk - Phylogeny of all 29 Anuran species used in the study.
 
 **Analysis workflow**
 - [Supplementary_information.html](https://nicholaswunz.github.io/tadpole-thermal-tolerance/Supplementary_information.html) - Supplementary information which contains the *R* workflow for processing and analysing the raw data, and creating figures.
