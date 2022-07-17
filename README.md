@@ -16,7 +16,7 @@ Cheng C. T., Chuang M. F., Haramura, T., Cheng C. B., Kim Y. I., Borzée A., Wu 
 - tree2021_12.nwk - Phylogeny of all 29 Anuran species used in the study.
 
 **Analysis workflow**
-- [Supplementary_information.html](https://nicholaswunz.github.io/tadpole-thermal-tolerance/Supplementary_information.html) - Supplementary information which contains the *R* workflow for processing and analysing the raw data, and creating figures.
+- [supplementary_information.html](https://nicholaswunz.github.io/tadpole-thermal-tolerance/supplementary_information.html) - Supplementary information which contains the *R* workflow for processing and analysing the raw data, and creating figures.
 
 **Extra files**
 - accession_number.csv - Accession number of genes of all species (ingroups and outgroups) in the analysis from the National Center for Biotechnology Information ([NCBI](https://www.ncbi.nlm.nih.gov/)).
