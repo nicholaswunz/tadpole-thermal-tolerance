@@ -1,0 +1,33 @@
+Species,group,12S,16S,COI,cytb
+Bufo gargarizans,Ingroup,DQ275350,DQ275350,DQ275350,DQ275350
+Bufo japonicus formosus,Ingroup,LC061223,LC061223,,AB713498
+Bombina orientalis,Ingroup,AY585338,AY585338,AY585338,AY585338
+Buergeria choui,Ingroup,DQ283055,DQ283055,MH034165,KC151119
+Buergeria robusta,Ingroup,AB530075,AF026370,GU244379,JF802879
+Bufo bankorensis,Ingroup,AF160768,AF160786,HQ650558,AB159260
+Dryophytes japonicus,Ingroup,AB303949,AB303949,AB303949,AB303949
+Duttaphrynus melanostictus,Ingroup,AY458592,AY458592,AY458592,AY458592
+Fejervarya limnocharis,Ingroup,AY158705,AY158705,AY158705,AY158705
+Glandirana emeljanovi ,Ingroup,NC_030211,NC_030211,NC_030211,NC_030211
+Glandirana rugosa,Ingroup,KF771341,KF771341,JQ844517,KF771341
+Hyla chinensis,Ingroup,AY458593,AY458593,AY458593,AY458593
+Hylarana latouchii,Ingroup,KF771284,AB058880,JN700815,EU034751
+Kaloula borealis,Ingroup,NC_020044,NC_020044,NC_020044,NC_020044
+Kurixalus berylliniris,Ingroup,,DQ468669,DQ468677,
+Kurixalus eiffingeri,Ingroup,AB933305,AF026363,DQ468680,
+Kurixalus idiootocus,Ingroup,AB933306,DQ468674,DQ468682,GQ204503
+Microhyla fissipes,Ingroup,AB201175,AB201185,KR087802,AB201219
+Microhyla heymonsi,Ingroup,AY458596,AY458596,AY458596,AY458596
+Micryletta steinegeri,Ingroup,AB634638,AB634696,,
+Odorrana swinhoana,Ingroup,AB200929,KF185045,HQ650557,
+Pelophylax nigromaculatus,Ingroup,KT878718,KT878718,KT878718,KT878718
+Polypedates braueri,Ingroup,AB728016,AB728003,KR087860,
+Rana coreana,Ingroup,NC_024548,NC_024548,NC_024548,NC_024548
+Rana longicrus,Ingroup,,AB058881,,JF939130
+Rana pirica,Ingroup,KX269184,KX269184,KX024946,KX269331
+Rana sauteri,Ingroup,AB685767,AB211495,,EU034956
+Rana uenoi,Ingroup,KX269177,KX024885,KX024945,KX024969
+Zhangixalus moltrechti,Ingroup,AF458145,DQ468676,HQ650556,U00710
+Ascaphus truei,Outgroup,X86225,DQ283116,AJ871087,AF277330
+Batrachuperus pinchonii,Outgroup,AY916007,DQ283340,KM201393,AY593142
+Gyrinophilus porphyriticus,Outgroup,EU336432,DQ283255,NC_006341,NC_006341

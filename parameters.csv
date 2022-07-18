@@ -1,0 +1,32 @@
+ID,Value,Variable name,Variable unit
+**latitude**,Provided in table S1,latitude coordinate,$^{\circ}$
+**longitude**,Provided in table S1,latitude coordinate,$^{\circ}$
+**nyears**,2,number of years to run,#
+**soiltype**,clay (modified*),soil type,-
+REFL,0.15,soil solar reflectance,decimal %
+slope,0,slope,$^{\circ}$
+aspect,0,aspect,$^{\circ}$
+**DEP**,"0, 2, 5, 10, 15, 20, 30, 45, 90, 200",soil depth,cm
+**minshade**,0 (unshaded) or 90 (shaded),minimum shade level,%
+**maxshade**,10 (unshaded) 100 (shaded),maximum shade level,%
+runshade,TRUE,run model with shade?,-
+clearsky,FALSE,run with clear sky?,-
+SLE,0.95,substrate longwave IR emissivity,decimal %
+Thcond,2.5,soil mineral thermal conductivity,W m$\\^{-1}$ K$\\^{-1}$
+Density,2.56,soil mineral density,kg m$\\^{-3}$
+SpecHeat,870,soil mineral heat capacity,J kg$\\^{-1}$ K$\\^{-1}$
+**BulkDensity**,1.4,soil bulk density,kg m$\\^{-3}$
+hori,0,horizon angles,$^{\circ}$
+**cap**,FALSE,organic surface layer?,-
+**PE**,-2.731491,air entry potential,J kg$\\^{-1}$
+**KS**,6.41E-05,saturated conductivity,kg s m$\\^{-3}$
+**BB**,16.1914,Campbell$'$s soil $'$b$'$ parameter,-
+**BD**,1.4,soil bulk density,mg m$\\^{-3}$
+DD,2.56,soil density,mg m$\\^{-3}$
+**maxpool**,500,maximum pool depth,mm
+**rainmult**,10,rainfall multiplier,-
+**LAI**,0,leaf area index,-
+snowmodel,FALSE,run snow model?,-
+**soilgrids**,FALSE,query soilgrids?,-
+windfac,TRUE,wind multiplier,-
+**warm**,0 (current) or 4 (warming),warming offset vector,$^{\circ}$C
